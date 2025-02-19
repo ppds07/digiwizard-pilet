@@ -57,10 +57,3 @@ sudo apt install xinput-calibrator
 **DO NOT TOUCH THE SCREEN** while the Raspberry Pi is booting via the DSI display. It will prevent the touchscreen feature to work properly. 
 
 
-## 📸 Screenshots
-
-*(Add images of your setup here!)*
-
-
----
-
