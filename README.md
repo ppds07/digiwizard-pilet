@@ -15,4 +15,7 @@ This project aims to develop a tablet-like device based on the Raspberry Pi, fea
 * **Cables & Connectors:** Official Raspberry Pi DSI cable
 
 ## Inital Setup
-Go through the [this](https://github.com/ppds07/digiwizard-pilet/blob/main/initial_setup.md) for the initial setup of the device.
+Go through [this](https://github.com/ppds07/digiwizard-pilet/blob/main/initial_setup.md) for the initial setup of the device.
+
+## .conf Setup
+Paste the .conf files at your own risk. These have the tendency to make the module stop working. All the configs are based on rpi-5 only. Due to the new RP-1 controller in the Raspberry Pi 5, the config commands may differ. 
